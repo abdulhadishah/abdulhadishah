@@ -10,6 +10,6 @@ My usual tools are VS Code, Git, and a clean, no-nonsense dev setup.
 I’ve got a few pinned projects here that show what I’m currently working through and improving.
 Most of them are experiments, rewrites, or small builds that helped me understand something better.
 
-I like clean setups and simple workflows.
-Favourite anime: Mob Psycho 100.
-Hobbies: anime, reading, sketching.
+I like clean setups and simple workflows. <br />
+Favourite anime: Mob Psycho 100. <br />
+Hobbies: anime, reading, sketching. <br />
