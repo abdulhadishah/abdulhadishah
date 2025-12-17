@@ -1,15 +1,18 @@
-### Hey there! :wave:
+### Hey there! <img src="https://github.com/user-attachments/assets/612537fe-cf9a-492a-b8ee-4458c344d6e4" width="30"/>
+
 I’m **Abdul Hadi**.
 
-I build small projects while learning how things work under the hood. <br />
-If something breaks, I dig in, fix it, and move on to the next thing. <br />
+I build small projects to learn how things work under the hood.  
+If something breaks, I dig in, fix it, and move on.
 
-I mostly work with JavaScript and Node.js, and I also use Python for problem-solving and projects. <br />
-My usual tools are VS Code, Git, and a clean, no-nonsense dev setup. <br />
+I mostly work with **JavaScript / Node.js** and use **Python** for experiments, tooling, and quick GUIs.
 
-I’ve got a few pinned projects here that show what I’m currently working through and improving. <br />
-Most of them are experiments, rewrites, or small builds that helped me understand something better. <br />
+My day-to-day tools are VS Code, Figma, Git, and a clean, no-nonsense dev setup.
 
-I like clean setups and simple workflows. <br />
-Favourite anime: Mob Psycho 100. <br />
-Hobbies: anime, reading, sketching. <br />
+The pinned projects here are small, focused experiments, built to understand things like APIs, automation, GUIs, and basic web interactions.
+
+#### Fun Facts:
+
+* I like clean setups and simple workflows.
+* Favourite anime: Mob Psycho 100.
+* **Hobbies:** anime, manga, sketching, and long walks.
